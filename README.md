@@ -44,4 +44,4 @@ A robust and secure ERC20 token implementation designed to serve as the core uti
 
 
 
-
+For any queries, kindly contact at a.gupta@naoris.com
